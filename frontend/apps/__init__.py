@@ -1,0 +1,1 @@
+"""Frontend applications package for the Azercell Knowledge Base chatbot."""
